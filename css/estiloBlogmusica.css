@@ -1,0 +1,90 @@
+
+
+.contenedor-sociales{
+	background:black;
+    margin-top:80%;
+}
+
+
+
+
+header{
+	height:400px;
+    background: url(../imagenes/realfotos.png);
+    background-position: center center;
+    background-size: cover;
+    
+   }
+
+
+
+ .historia1{
+  padding: 2%;
+  }
+
+
+
+.parrafo{
+	padding:3%;
+}
+
+
+
+nav{
+	padding-top: 50px;
+}
+   
+
+.foto{
+	padding-top: 10%;
+	}
+
+
+.artistas{
+	background: black;
+	font-size: 100%;
+    line-height: 150%;
+    color:#ffffff;
+    font-family: "BonJovi";
+}
+ 
+
+ .comentario input{
+ 	width:70%;
+ }
+
+
+
+ .lupa input{
+ 	width:70%;
+ }
+
+
+
+ .buscador {
+ 	height:1080px;
+ 	background: black;
+ 	padding: 10px;
+ }
+
+
+
+
+
+@media (max-width: 770px){
+	
+
+		header{
+			height:400px;
+		    background: url(../imagenes/realfotos.png);
+		    background-position: 1350px center;
+		    background-size: cover;
+
+		   }
+
+.contenedor-sociales{
+	background:black;
+    margin-top:80%;
+}
+
+}
